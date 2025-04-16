@@ -17,10 +17,10 @@ The goal of this project is to help students predict the minimum GPA required fo
 ## 🔍 How It Works
 
 - Trained on historical data from **2019 to 2025**
-- Predicts **minimum GPA cutoffs for 2026**
 - Users provide:
   - Estimated **popularity score** (1–10) for each spec
   - Expected **cohort size**
+- Predicts **minimum GPA cutoffs for 2026/any other cohort** based on user input on popularity and cohort size and makes use of trained data from 2019-2025 cohorts. 
 - A CLI interface displays predicted GPA ranges and flags a spec as "N/A" if demand is too low
 
 ---
