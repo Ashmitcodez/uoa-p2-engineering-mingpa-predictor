@@ -52,7 +52,7 @@ The goal of this project is to help students predict the minimum GPA required fo
 
 ## 💻 How to Run
 
-1. Clone this repository or download the `.py` file
+1. Clone this repository or download the `.py` file if you have the libraries (pandas, numpy, scikit-learn, tabulate) pre installed
 2. Install the required packages:
 
 ```bash
