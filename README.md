@@ -104,6 +104,6 @@ Note: `'N/A'` indicates a specialisation may not be filled due to low popularity
 
 ## 👨‍💻 Author
 
-Made with 💻 and 📊 by Ashmit Bhola – feel free to connect on [LinkedIn]((https://www.linkedin.com/in/ashmit-bhola/)) 
+Made with 💻 and 📊 by Ashmit Bhola – feel free to connect on [LinkedIn](https://www.linkedin.com/in/ashmit-bhola/) 
 
 ---
